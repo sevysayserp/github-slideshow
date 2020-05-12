@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Life is a game, and money is the points."
 Use the left arrow to go back!
